@@ -1,0 +1,50 @@
+# Money City
+
+> Money City is a relaxing city builder and tycoon game where you become the mayor and the landlord. Build homes, sign rent contracts with your tenants, collect rent and turn a small green village into a rich megalopolis. You can play it offline, in short sessions or for hours.
+
+Money City is a single-player city builder and tycoon game for Android by LapaGames, available on Google Play (package com.lapagames.moneycity). It is free to play and works offline. Ads are optional rewarded ads.
+
+## Facts
+- Genre: city builder, tycoon, simulation, casual
+- Platform: Android (Google Play): https://play.google.com/store/apps/details?id=com.lapagames.moneycity
+- Price: free to play; optional rewarded ads
+- Offline: yes, the game is playable without internet (the online leaderboard and optional ads need a connection)
+- Languages: English, Türkçe, Español, Deutsch, Français, Italiano, Português, Português (Brasil), Русский, Azərbaycanca, हिन्दी, 中文
+- Core loop: build homes and businesses, sign rent contracts (1 minute to 3 days, longer pays more), collect rent, expand land, upgrade buildings up to 10 stars
+- World: a large island with five regions (meadow, forest, ice, desert, swamp), each with special homes (log cabin, igloo, adobe house, stilt house)
+- 10 world wonders that boost nearby income (e.g. Eiffel Tower, Colosseum, Great Pyramid, Taj Mahal, Statue of Liberty)
+- Living city: day and night, weather, seasons, pedestrians, cars, boats and tourists
+- Central Bank: loans (no new loan while in debt) and savings that earn daily interest, also offline
+- Mayor decisions: you set the tax rate; high taxes cause protests, ignored protests can turn into a riot where shops near the city hall are looted
+- Public services: school, police, fire station, hospital and university raise rent and happiness nearby
+- City tasks: 13 mini-games (rescue a cat, fix power lines and pipes, put out fires, patch potholes, open a safe and more)
+- Daily content: 7-day login streak, daily tasks and chest, lucky wheel, collection album, hidden treasure on new land, a tour bus with tourists
+- Online leaderboard: world rankings for level, wealth and rent income; unique player names; the number one city gets a golden city hall
+- Systems: citizen happiness and requests, quests, achievements, city titles from Village to Megalopolis, weekly events, photo mode, rent notifications
+
+## Frequently asked questions
+- **What is Money City?** Money City is a free city builder and tycoon game for Android. You build homes and businesses, sign rent contracts with tenants, collect rent and grow a small village into a megalopolis on a large island with five regions.
+- **Can I play Money City offline?** Yes. Money City works without an internet connection. You only need internet to watch optional ads for bonus gold bars. The leaderboard also needs internet.
+- **How does rent work in Money City?** Each home needs a rent contract. Contracts last from 1 minute to 3 days, and longer contracts pay much more. When rent is ready you collect it with a tap, or use gold bars to collect it right away.
+- **Is Money City pay to win?** No. Everything in the game can be earned by playing. Gold bars come from rewarded ads, the daily gift and achievements.
+- **What languages does Money City support?** English, Turkish, Spanish, German, French, Italian, Portuguese, Brazilian Portuguese, Russian, Azerbaijani, Hindi and Chinese. The game starts in your phone's language automatically.
+- **Does Money City have a bank?** Yes. At the Central Bank you can take a loan or put money into savings that earn interest every day, even while the game is closed.
+- **Does Money City have a leaderboard?** Yes. There are three world rankings: level, wealth and rent income. You choose your own player name, and the number one city gets a golden city hall.
+- **Is Money City like other classic city builder and tycoon games?** If you enjoyed the classic social city builders where you collected rent from your buildings, Money City brings that feeling to mobile: build, collect, expand and decorate, at your own pace and offline.
+
+## Pages
+- [Home (English)](https://brkcn58.github.io/money-city/)
+- [Türkçe](https://brkcn58.github.io/money-city/tr/)
+- [Español](https://brkcn58.github.io/money-city/es/)
+- [Deutsch](https://brkcn58.github.io/money-city/de/)
+- [Français](https://brkcn58.github.io/money-city/fr/)
+- [Italiano](https://brkcn58.github.io/money-city/it/)
+- [Português](https://brkcn58.github.io/money-city/pt/)
+- [Português (Brasil)](https://brkcn58.github.io/money-city/pt-br/)
+- [Русский](https://brkcn58.github.io/money-city/ru/)
+- [Azərbaycanca](https://brkcn58.github.io/money-city/az/)
+- [हिन्दी](https://brkcn58.github.io/money-city/hi/)
+- [中文](https://brkcn58.github.io/money-city/zh/)
+- [Classic city builders: games like the Facebook-era city builders](https://brkcn58.github.io/money-city/classic-city-builders.html)
+- [Press kit](https://brkcn58.github.io/money-city/press.html)
+- [Privacy policy](https://brkcn58.github.io/money-city/privacy.html)
